@@ -2,7 +2,7 @@
 name = "pype"
 version = "0.1.0"
 description = ""
-authors = ["Bruno dos Santos <brunods@lilly.com>"]
+authors = ["Bruno dos Santos <brunods1001@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.11,<4.0"
@@ -27,7 +27,3 @@ ipython = "^8.5.0"
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
-
-[[tool.poetry.source]]
-name = "lilly"
-url = "https://api.data.lrl.lilly.com/docs/pypi-all/simple/"
