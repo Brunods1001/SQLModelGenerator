@@ -1,0 +1,14 @@
+[prod]
+[prod.db]
+DB_NAME = ""
+PGUSER = ""
+DB_HOST = ""
+pkey = ""
+
+[dev]
+[dev.db]
+DB_NAME = ""
+PGUSER = ""
+DB_HOST = "localhost"
+
+
